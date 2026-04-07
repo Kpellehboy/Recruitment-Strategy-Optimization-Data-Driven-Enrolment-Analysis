@@ -1,10 +1,10 @@
-# 🚀 Recruitment Strategy Optimization: Data-Driven Enrolment Analysis
+#  Recruitment Strategy Optimization: Data-Driven Enrolment Analysis
 
 This project leverages recruitment outreach and applicant data to provide **data-driven insights** for improving Excelerate’s enrolment outcomes. The analysis focuses on identifying key trends, bottlenecks, and high-impact factors to optimize recruitment strategies, ultimately increasing application rates and enhancing the quality and quantity of successful enrolments.
 
 ---
 
-## 🎯 Business Objective
+##  Business Objective
 
 The primary goal is to **optimize recruitment strategies** to:
 1.  **Increase application rates** and conversion.
@@ -13,7 +13,7 @@ The primary goal is to **optimize recruitment strategies** to:
 
 ---
 
-## 📊 Data Sources
+##  Data Sources
 
 The analysis is based on three core datasets:
 
@@ -25,7 +25,7 @@ The analysis is based on three core datasets:
 
 ---
 
-## 🛠️ Tools and Technologies
+##  Tools and Technologies
 
 The following tools were used for data cleaning, analysis, and visualization:
 
@@ -38,7 +38,7 @@ The following tools were used for data cleaning, analysis, and visualization:
 
 ---
 
-## 🧹 Data Preparation & Cleaning Summary
+##  Data Preparation & Cleaning Summary
 
 The project began with a critical data cleaning phase to ensure reliability:
 
@@ -49,7 +49,7 @@ The project began with a critical data cleaning phase to ensure reliability:
 
 ---
 
-## ✨ Key Insights and Conclusions
+##  Key Insights and Conclusions
 
 The analysis revealed several actionable insights guiding strategic adjustments:
 
@@ -67,7 +67,7 @@ The analysis revealed several actionable insights guiding strategic adjustments:
 
 ---
 
-## 💡 Recommended Actions
+##  Recommended Actions
 
 Based on the findings, we recommend the following strategic enhancements to improve enrolment:
 
@@ -80,7 +80,7 @@ Based on the findings, we recommend the following strategic enhancements to impr
 
 ---
 
-## 🖼️ Dashboard and Visualizations
+##  Dashboard and Visualizations
 
 The Power BI dashboard provides a **comprehensive visual overview** of recruitment health, tracking key metrics (KPIs) and conversion funnels. ()
 
@@ -90,6 +90,6 @@ The Power BI dashboard provides a **comprehensive visual overview** of recruitme
 
 ---
 
-## ⏭️ Next Steps
+##  Next Steps
 
 Future analysis could involve **linking the Outreach and Applicant data** on a unique identifier to calculate the conversion rates from **"connected"** calls to final enrolment, providing an even clearer picture of outreach ROI.
